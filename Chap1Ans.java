@@ -1,4 +1,4 @@
-listing 1
+// listing 1
 /*    
    Compute your weight on the moon.  
    
@@ -19,7 +19,7 @@ class Moon {
   }    
 }
 
-listing 2
+// listing 2
 /*  
    This program displays a conversion  
    table of inches to meters. 

@@ -1,4 +1,4 @@
-listing 1
+// listing 1
 // Find prime numbers between 2 and 100. 
 class Prime {    
   public static void main(String args[]) {    

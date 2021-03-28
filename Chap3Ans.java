@@ -1,4 +1,4 @@
-listing 1
+// listing 1
 // Count spaces. 
 class Spaces { 
   public static void main(String args[])  
@@ -19,7 +19,7 @@ class Spaces {
   } 
 }
 
-listing 2
+// listing 2
 // Change case. 
 class CaseChg { 
   public static void main(String args[])  

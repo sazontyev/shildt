@@ -1,4 +1,4 @@
-listing 1
+// listing 1
 // A stack class for characters.  
 class Stack {  
   private char stck[]; // this array holds the stack 
@@ -99,7 +99,7 @@ class SDemo {
   }  
 }
 
-listing 2
+// listing 2
 void swap(Test ob1, Test ob2) { 
   int t; 
  
@@ -108,7 +108,7 @@ void swap(Test ob1, Test ob2) {
   ob2.a = t; 
 }
 
-listing 3
+// listing 3
 // Display a string backwards using recursion. 
 class Backwards { 
   String str; 
@@ -132,7 +132,7 @@ class BWDemo {
   } 
 }
 
-listing 4
+// listing 4
 class SumIt {
   int sum(int ... n) {
     int result = 0;

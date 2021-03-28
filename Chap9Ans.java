@@ -1,4 +1,4 @@
-listing 1
+// listing 1
 // An exception for stack-full errors.  
 class StackFullException extends Exception {  
   int size;  

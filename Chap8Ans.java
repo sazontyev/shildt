@@ -1,4 +1,4 @@
-listing 1
+// listing 1
 interface IVehicle {
   // Return the range.   
   int range(); 

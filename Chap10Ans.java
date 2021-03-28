@@ -1,4 +1,4 @@
-listing 1
+// listing 1
 /* Copy a text file, substituting hyphens for spaces. 
   
    This version uses byte streams. 
@@ -56,7 +56,7 @@ class Hyphen {
   } 
 }
 
-listing 2
+// listing 2
 /* Copy a text file, substituting hyphens for spaces.
 
    This version uses character streams.

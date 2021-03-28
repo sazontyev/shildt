@@ -1,4 +1,4 @@
-listing 1
+// listing 1
 // Make the TickTock class actually keep time.
  
 class TickTock { 
